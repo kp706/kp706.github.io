@@ -15,7 +15,7 @@ Jump to [principal investigator](#pi), [postdoc and staff](#postdoc-staff), [gra
 
 ## Principal Investigator
 {% assign number_printed = 0 %}
-{% for member in site.data.staff %}
+{% for member in site.data.team_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -79,7 +79,7 @@ Jump to [principal investigator](#pi), [postdoc and staff](#postdoc-staff), [gra
 
 ## Postdoc and Staff
 {% assign number_printed = 0 %}
-{% for member in site.data.staff %}
+{% for member in site.data.team_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
