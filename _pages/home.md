@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "SBAI Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Systems Biology of Aging and Immunity (SBAI) Lab at KOBIC."
 sitemap: false
 permalink: /
 ---
