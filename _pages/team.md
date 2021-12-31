@@ -229,7 +229,7 @@ Jump to [Principal investigator](#principal-investigator), [Staff and Postdoc](#
 {% endif %}
 
 
-## Former visitors and Internships
+## Lab visitors and Internships
 <div class="row">
 
 <div class="col-sm-4 clearfix">
