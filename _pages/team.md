@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new Ph.D. students and Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [principal investigator](#pi), [staff and postdoc](#staff-postdoc), [graduate students](#master-and-bachelor-students), [alumni](#alumni), [lab visitors](#lab-visitors).
+Jump to [Principal investigator](#pi), [Staff and Postdoc](#staff-postdoc), [Graduate students](#graduate-students), [Alumni](#alumni), [Lab visitors and Internships](#lab-visitors-internships).
 
 ## Principal investigator
 {% assign number_printed = 0 %}
@@ -141,7 +141,7 @@ Jump to [principal investigator](#pi), [staff and postdoc](#staff-postdoc), [gra
 
 
 
-## Graduate Students
+## Graduate students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -228,7 +228,8 @@ Jump to [principal investigator](#pi), [staff and postdoc](#staff-postdoc), [gra
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+
+## Former visitors and Internships
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -254,6 +255,3 @@ Jump to [principal investigator](#pi), [staff and postdoc](#staff-postdoc), [gra
 
 </div>
 
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
