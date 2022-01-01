@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "SBAI Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "SBAI Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.co.kr/citations?user=wIpyBGAAAAAJ&hl=ko&oi=ao), [ORCID](https://orcid.org/0000-0002-6988-6239))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
