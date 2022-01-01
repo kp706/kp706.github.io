@@ -42,8 +42,6 @@ As said, [Jekyll](https://jekyllrb.com) takes all the markdown and data files, a
 
 According to the [Allan Lab](https://www.allanlab.org/), You can use this template as you please. You don't have to link to or mention Allan Lab (but of course they appreciate it). Allan Lab also welcome it if you send them an email with a link to your website, perhaps they'll publish a list here at some point. 
 
-Comments welcome.
-
 Code released under the MIT License. 
 
 
