@@ -12,7 +12,7 @@ Jump to: [KOBIC](#kobic), [Gallery](#gallery), [Cornell](#cornell), [St Andrews]
 ## KOBIC
 
 #### Introduction to the KOBIC infrastructure [(see the details about KOBIC)](https://www.kobic.re.kr/):
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=fi8sMgs8h1Q" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/fi8sMgs8h1Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
