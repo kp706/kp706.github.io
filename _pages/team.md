@@ -251,7 +251,7 @@ Jump to [Principal investigator](#principal-investigator), [Staff and Postdoc](#
 
 <div class="col-sm-4 clearfix">
 <h4>Collaborating students</h4>
-{% for member in site.data.alumni_msc %}
+{% for member in site.data.alumni_collaborating_student %}
 {{ member.name }}
 {% endfor %}
 </div>
