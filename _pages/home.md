@@ -64,6 +64,6 @@ We are grateful for funding from the [Korea National Genome Project (NGP)](https
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NGP.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NGP.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NGP.jpg" style="width: 180px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRF.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NGP.png" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRF.png" style="width: 120px">
 </figure>
