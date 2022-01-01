@@ -17,7 +17,7 @@ If you never used [Jekyll](https://jekyllrb.com), read the [wikipedia article](h
 
 Create and open a github account, go to [Allan Lab repository](https://github.com/allanlab/allanlab), and click 'fork'. This is now your copy of the website, and you can change and adapt it as you want. You don't have to link to us or mention us (but of course we appreciate it). Then change the name of the repository to "your_username" and the name of the branch to "gh-pages".  Your website is now automatically published under *your_username.github.io/your_username/*. Except that it probably still looks like our website. 
 
-To modify the webpage, you can either do everything on on github.com (go to a file, click "edit", then "commit", "push"), or install  [Jekyll](https://jekyllrb.com) on your computer and play with your local copy that you sync with the branch on github.com.  The former is much easier in the beginning, but a bit less convenient once you start rewriting everythint. To get it to work on your computer (and to learn a bit more about [Jekyll](https://jekyllrb.com)), [here](https://www.taniarascia.com/make-a-static-website-with-jekyll/) and [here](https://scotch.io/tutorials/getting-started-with-jekyll-plus-a-free-bootstrap-3-starter-theme) are tutorials on how to use it and how set it up locally. Also, consider using the [Github desktop app](http://www.desktop.github.com), Allan found it helpful.  
+To modify the webpage, you can either do everything on on github.com (go to a file, click "edit", then "commit", "push"), or install  [Jekyll](https://jekyllrb.com) on your computer and play with your local copy that you sync with the branch on github.com.  The former is much easier in the beginning, but a bit less convenient once you start rewriting everythint. To get it to work on your computer (and to learn a bit more about [Jekyll](https://jekyllrb.com)), [here](https://www.taniarascia.com/make-a-static-website-with-jekyll/) and [here](https://scotch.io/tutorials/getting-started-with-jekyll-plus-a-free-bootstrap-3-starter-theme) are tutorials on how to use it and how set it up locally. Also, consider using the [Github desktop app](http://www.desktop.github.com), Allan Lab found it helpful.  
 
 ### Customization
 Now let's make this *your* website. 
@@ -40,7 +40,7 @@ As said, [Jekyll](https://jekyllrb.com) takes all the markdown and data files, a
 
 ### Copyright / credit
 
-You can use this template as you please. You don't have to link to or mention Allan Lab (but of course they appreciate it). We also welcome it if you send Allan Lab an email with a link to your website, perhaps they'll publish a list here at some point. 
+According to the [Allan Lab](https://www.allanlab.org/), You can use this template as you please. You don't have to link to or mention Allan Lab (but of course they appreciate it). Allan Lab also welcome it if you send them an email with a link to your website, perhaps they'll publish a list here at some point. 
 
 Comments welcome.
 
