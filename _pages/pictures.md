@@ -6,7 +6,7 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [KOBIC](#kobic), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
+Jump to: [KOBIC](#kobic), [Gallery](#gallery), [Cornell](#cornell), [St Andrews](#st-andrews)
 
 
 ## KOBIC
@@ -14,7 +14,9 @@ Jump to: [KOBIC](#kobic), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-a
 #### Introduction to the KOBIC infrastructure [(see the details about KOBIC)](https://www.kobic.re.kr/):
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=fi8sMgs8h1Q" frameborder="0" allowfullscreen></iframe>
 
-#### Gallery
+
+
+## Gallery
 (Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
