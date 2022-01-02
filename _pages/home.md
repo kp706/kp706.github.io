@@ -62,7 +62,7 @@ For more information about our research interest, please visit [Research](resear
 We are grateful for funding from the [Korea National Genome Project (NGP)](https://www.kobic.re.kr/ngp/) and the [Korea BioData Station (K-BDS)](https://kbds.re.kr/) from  [National Research Foundation of Korea](https://www.nrf.re.kr/eng/index).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_KOBIC.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NGP.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRF.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_KOBIC.png" style="width: 120px; margin: 10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NGP.png" style="width: 120px; margin: 10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRF.png" style="width: 120px; margin: 10px">
 </figure>
